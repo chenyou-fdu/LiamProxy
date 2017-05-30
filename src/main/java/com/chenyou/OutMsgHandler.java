@@ -81,6 +81,7 @@ public class OutMsgHandler extends ChannelInboundHandlerAdapter {
                 }
             });
         }
+        buf.release();
         return;
     }
     @Override

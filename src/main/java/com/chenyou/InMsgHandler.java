@@ -54,6 +54,8 @@ public class InMsgHandler extends ChannelInboundHandlerAdapter {
                         }
                     }
                 });
+            } else {
+
             }
         } catch (Exception ue) {
             System.out.println(ue.getMessage());
