@@ -9,5 +9,3 @@ LiamProxy is a simple proxy server for transfering encrypted and authentic data 
 * other self-defined protocol
 * some other helper feature
 
-### Fun
-Liam Gallagher rocks.
